@@ -1,0 +1,15 @@
+/Users/mac/RiderProjects/Session1/Session1/bin/Debug/net5.0/Session1.deps.json
+/Users/mac/RiderProjects/Session1/Session1/bin/Debug/net5.0/Session1.runtimeconfig.json
+/Users/mac/RiderProjects/Session1/Session1/bin/Debug/net5.0/Session1.runtimeconfig.dev.json
+/Users/mac/RiderProjects/Session1/Session1/bin/Debug/net5.0/Session1.dll
+/Users/mac/RiderProjects/Session1/Session1/bin/Debug/net5.0/ref/Session1.dll
+/Users/mac/RiderProjects/Session1/Session1/bin/Debug/net5.0/Session1.pdb
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/Session1.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/Session1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/Session1.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/Session1.AssemblyInfo.cs
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/Session1.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/Session1.dll
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/ref/Session1.dll
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/Session1.pdb
+/Users/mac/RiderProjects/Session1/Session1/obj/Debug/net5.0/Session1.genruntimeconfig.cache
