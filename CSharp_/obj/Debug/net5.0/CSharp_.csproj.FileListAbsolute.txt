@@ -1,0 +1,5 @@
+/Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.AssemblyInfoInputs.cache
+/Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.AssemblyInfo.cs
+/Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.csproj.CoreCompileInputs.cache
