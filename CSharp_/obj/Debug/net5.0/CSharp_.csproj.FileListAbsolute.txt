@@ -3,3 +3,10 @@
 /Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.AssemblyInfoInputs.cache
 /Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.AssemblyInfo.cs
 /Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Session1/CSharp_/bin/Debug/net5.0/CSharp_.deps.json
+/Users/mac/RiderProjects/Session1/CSharp_/bin/Debug/net5.0/CSharp_.dll
+/Users/mac/RiderProjects/Session1/CSharp_/bin/Debug/net5.0/ref/CSharp_.dll
+/Users/mac/RiderProjects/Session1/CSharp_/bin/Debug/net5.0/CSharp_.pdb
+/Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.dll
+/Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/ref/CSharp_.dll
+/Users/mac/RiderProjects/Session1/CSharp_/obj/Debug/net5.0/CSharp_.pdb
